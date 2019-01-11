@@ -1,2 +1,2 @@
-# demoSite
+# DemoSite
 Demo site example
